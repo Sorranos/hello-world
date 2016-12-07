@@ -2,4 +2,4 @@
 My first one
 Hi guys!
 
-My name is Sorranos and I learn how to code
+My name is Sorranos and I learn how to code!
